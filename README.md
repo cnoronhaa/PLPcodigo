@@ -7,9 +7,9 @@
 
 O programa possui as seguintes funcionalidades:
 
--  * Cadastro de doadores e receptores: * registrar pessoas com suas informações básicas, como seu nome, tipo sanguíneo e peso.
--  * Verificação da compatibilidade: * verifica se um doador e receptor são compatíveis.
--  * Regras de compatibilidade sanguínea: * Essa regra se baseia nos padrões universais de transfusão.
+-   Cadastro de doadores e receptores: * registrar pessoas com suas informações básicas, como seu nome, tipo sanguíneo e peso.
+-   Verificação da compatibilidade: * verifica se um doador e receptor são compatíveis.
+-   Regras de compatibilidade sanguínea: * Essa regra se baseia nos padrões universais de transfusão.
 
 # Estrutura do Arquivo
 
