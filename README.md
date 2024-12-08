@@ -15,7 +15,7 @@ O programa possui as seguintes funcionalidades:
 
 Sua estrutura contém:
 
-- Um arquivo  .pl  contendo a implementação em Prolog, que define as regras de compatibilidade e as operações de consulta..
+- Um arquivo **.pl**  contendo a implementação em Prolog, que define as regras de compatibilidade e as operações de consulta..
 
 # Requisitos
 
@@ -37,9 +37,9 @@ Para executar o programa, são necessários os seguintes componentes:
 1 . Verifique a localização do arquivo SistemaDeDoacao no seu dispositivo.
 
 2 . Abra o terminal e execute o programa com o seguinte comando:
-* python *sistemaDoacaoDeSangue.py*
+* python **sistemaDoacaoDeSangue.py**
 Ou
-* py sistemaDoacaoDeSangue.py 
+* py **sistemaDoacaoDeSangue.py**
 
 3 .  * Interagir com o programa: 
 - Utilizando uma interface para registradores doadores e receptores.
@@ -47,5 +47,5 @@ Ou
 - Explorar outras funcionalidades disponíveis.
 
 # Estrutura do Projeto
--   sistemaDoacaoDeSangue.py:  Arquivo principal que contém a implementação do sistema com interface gráfica e consultas Prolog.
--   sistema_doacao.pl:  Arquivo de regras em Prolog que definem a compatibilidade sanguínea e outros dados.
+-   **sistemaDoacaoDeSangue.py**:  Arquivo principal que contém a implementação do sistema com interface gráfica e consultas Prolog.
+-   **sistema_doacao.pl**:  Arquivo de regras em Prolog que definem a compatibilidade sanguínea e outros dados.
