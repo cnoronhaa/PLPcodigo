@@ -37,7 +37,7 @@ Para executar o programa, são necessários os seguintes componentes:
 1 . Verifique a localização do arquivo SistemaDeDoacao no seu dispositivo.
 
 2 . Abra o terminal e execute o programa com o seguinte comando:
-* python sistemaDoacaoDeSangue.py 
+* python *sistemaDoacaoDeSangue.py*
 Ou
 * py sistemaDoacaoDeSangue.py 
 
