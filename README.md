@@ -47,5 +47,5 @@ Ou
 - Explorar outras funcionalidades disponíveis.
 
 # Estrutura do Projeto
--  * sistemaDoacaoDeSangue.py: * Arquivo principal que contém a implementação do sistema com interface gráfica e consultas Prolog.
--  * sistema_doacao.pl: * Arquivo de regras em Prolog que definem a compatibilidade sanguínea e outros dados.
+-   sistemaDoacaoDeSangue.py: * Arquivo principal que contém a implementação do sistema com interface gráfica e consultas Prolog.
+-   sistema_doacao.pl: * Arquivo de regras em Prolog que definem a compatibilidade sanguínea e outros dados.
